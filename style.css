@@ -8,7 +8,7 @@ h2 {
 }
 
 body {
-  background-color: slateblue;
+  background: linear-gradient(slateblue, maroon);
   font-family: "Trebuchet MS";
   color: whitesmoke;
 }
